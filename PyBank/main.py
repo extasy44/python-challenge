@@ -53,7 +53,7 @@ output_file = os.path.join(".",".","analysis.txt" )
 
 with open(output_file,"w") as txtfile:
 
-   txtfile.write(f"Summary")
+   txtfile.write(f"Financial Analysis")
    txtfile.write("\n")
    txtfile.write(f"---------------------------")
    txtfile.write("\n")
