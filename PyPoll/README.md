@@ -1,4 +1,4 @@
-![Vote Counting](Images/Vote_counting.png)
+![Vote Counting](../Images/Vote_counting.png)
 
 - In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
 
